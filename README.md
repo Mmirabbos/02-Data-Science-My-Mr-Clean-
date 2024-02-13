@@ -1,8 +1,8 @@
-# Scrapping WEB site wikipedia
+# My_Mr_Clean
 
-### This code takes the url and parses it into frequently used words and outputs the top 20 words in the form of a diagram
+## Description
 
-## All the necessary libraries
+
 
 ``` python
     pip3 install ssl
