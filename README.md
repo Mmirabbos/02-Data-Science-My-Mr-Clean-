@@ -1,8 +1,16 @@
 # My_Mr_Clean
 
+## Task
+
+the task is to take data from this site [URL](https://en.wikipedia.org/wiki/Ozone_layer)
+and calculate the top 20 most common words
+
 ## Description
 
 
+## Installation
+
+You need to download all these libraries to work
 
 ``` python
     pip3 install ssl
